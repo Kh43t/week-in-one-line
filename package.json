@@ -1,0 +1,1 @@
+{"description":"Your Week in One Line — make.fun entry: one 85-character line summing the agent's week.","license":"MIT","name":"week-in-one-line","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
